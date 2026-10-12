@@ -1,17 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:09090b,50:0f172a,100:1e293b&height=220&section=header&text=Najib&fontSize=70&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20Tech%20Lead%20Custom%20Program&descSize=18&descColor=94a3b8&descAlignY=60" width="100%" alt="header" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=38BDF8&center=true&vCenter=true&width=640&lines=Membangun+web+app+yang+rapi+%26+scalable;E-commerce+%E2%80%A2+Platform+Organisasi+%E2%80%A2+Sistem+Internal;Next.js+%2B+Tailwind+%2B+Prisma+sehari-hari;Memimpin+tim+dengan+workflow+yang+terstruktur" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=[USERNAME]&label=Profile%20Views&color=0e75b6&style=flat-square)
-![Location](https://img.shields.io/badge/Indonesia-0f172a?style=flat-square&logo=googlemaps&logoColor=38bdf8)
-![Status](https://img.shields.io/badge/Open%20to%20Collaboration-22c55e?style=flat-square)
-
+  <img src="./header.gif" alt="Banner Animasi" width="100%" />
 </div>
 
 ---
