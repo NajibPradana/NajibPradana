@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.svg" alt="Muhammad Najib Pradana" width="100%" />
+  <img src="./header1.svg" alt="Muhammad Najib Pradana" width="100%" />
 </div>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7FE9FF&center=true&vCenter=true&width=600&lines=Building+custom+software+end-to-end;Leading+teams%2C+shipping+products;Next.js+%7C+Laravel+%7C+Prisma" alt="Typing SVG" />
